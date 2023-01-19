@@ -1,44 +1,6 @@
 # concepts
 concepts.wtf | gokhan.eth aka gigabvgatti
 
-
-<title>Gökhan Turhan | OG Crypto-artist, DeFi Trader, Web3 Consultant, DAO builder</title>
-<meta name="description" content="Gökhan Turhan is an original crypto artist, DeFi trader, DAO community designer with a background in archives, literature, and marketing.">
-<meta name="keywords" content="web3, NFT, DAO, cryptoart, art">
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta charset="UTF-8">
-<style>
-html, body, tr, td {
-    font-family: monospace;
-    background-color: ##FFFFFF;
-    color: #000080;
-}
-
-article {
-    max-width: 540px;
-    margin: auto;
-}
-
-a:link {
-    color: #000080;
-}
-
-a:visited {
-    color: #000080;
-}
-
-a:active {
-    color: #000080;
-}
-
-a:hover {
-    color: #FF0E0E
-}
-
-</style>
-</head><body><article>
-<pre aria-label="Gökhan Turhan: Conceptual Artist, Curator, Community Designer" aria-role="heading" aria-level="1">
- --------------------------------------------------------------------------------------------------------------
  
  
 !   ██████   ██████  ██   ██ ██   ██  █████  ███    ██     ████████ ██    ██ ██████  ██   ██  █████  ███    ██ 
